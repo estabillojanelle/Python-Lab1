@@ -1,0 +1,1 @@
+print("\"Sometimes life is like this tunnel. You can’t always see the light at the end of the tunnel, but if you keep moving, you will come to a better place.\" - Iroh, Avatar the Last Airbender")

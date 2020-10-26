@@ -1,0 +1,2 @@
+famous_person = "Iroh"
+print("\"Sometimes life is like this tunnel. You can’t always see the light at the end of the tunnel, but if you keep moving, you will come to a better place.\" -" + famous_person + ", Avatar the Last Airbender")
